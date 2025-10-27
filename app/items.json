@@ -1,0 +1,604 @@
+{
+  "items": [
+    {
+      "itemid": "CLT001",
+      "name": "Cotton T-Shirt - White",
+      "description": "100% cotton crew neck t-shirt in white",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT002",
+      "name": "Cotton T-Shirt - Black",
+      "description": "100% cotton crew neck t-shirt in black",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT003",
+      "name": "Cotton T-Shirt - Navy",
+      "description": "100% cotton crew neck t-shirt in navy blue",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT004",
+      "name": "V-Neck T-Shirt - Grey",
+      "description": "Soft cotton v-neck t-shirt in heather grey",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT005",
+      "name": "Long Sleeve Shirt - Blue",
+      "description": "Classic long sleeve button-down shirt in light blue",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT006",
+      "name": "Polo Shirt - Red",
+      "description": "Pique cotton polo shirt with collar in red",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT007",
+      "name": "Hoodie - Black",
+      "description": "Fleece pullover hoodie with kangaroo pocket",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT008",
+      "name": "Zip-Up Hoodie - Grey",
+      "description": "Full zip hoodie in heather grey with drawstring",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT009",
+      "name": "Denim Jeans - Blue",
+      "description": "Classic fit denim jeans in medium blue wash",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT010",
+      "name": "Denim Jeans - Black",
+      "description": "Slim fit denim jeans in black",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT011",
+      "name": "Cargo Pants - Khaki",
+      "description": "Multi-pocket cargo pants in khaki",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT012",
+      "name": "Chino Pants - Navy",
+      "description": "Slim fit chino pants in navy blue",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT013",
+      "name": "Dress Shirt - White",
+      "description": "Formal long sleeve dress shirt in white",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT014",
+      "name": "Dress Shirt - Light Pink",
+      "description": "Formal dress shirt with French cuffs in light pink",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT015",
+      "name": "Blazer - Charcoal",
+      "description": "Two-button blazer in charcoal grey",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT016",
+      "name": "Blazer - Navy",
+      "description": "Classic navy blue blazer with notch lapel",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT017",
+      "name": "Leather Jacket - Black",
+      "description": "Genuine leather motorcycle jacket in black",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT018",
+      "name": "Bomber Jacket - Green",
+      "description": "Classic bomber jacket in olive green",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT019",
+      "name": "Parka - Navy",
+      "description": "Insulated parka with fur-lined hood in navy",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT020",
+      "name": "Windbreaker - Yellow",
+      "description": "Lightweight windbreaker jacket in bright yellow",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT021",
+      "name": "Cardigan - Beige",
+      "description": "Button-front cardigan sweater in beige",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT022",
+      "name": "Pullover Sweater - Burgundy",
+      "description": "Crew neck pullover sweater in burgundy",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT023",
+      "name": "Turtleneck - Black",
+      "description": "Ribbed turtleneck sweater in black",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT024",
+      "name": "Cable Knit Sweater - Cream",
+      "description": "Classic cable knit sweater in cream",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT025",
+      "name": "Dress Pants - Black",
+      "description": "Formal dress pants with crease in black",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT026",
+      "name": "Dress Pants - Charcoal",
+      "description": "Wool blend dress pants in charcoal grey",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT027",
+      "name": "Shorts - Khaki",
+      "description": "Casual cotton shorts in khaki",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT028",
+      "name": "Shorts - Navy",
+      "description": "Cargo shorts with side pockets in navy",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT029",
+      "name": "Athletic Shorts - Black",
+      "description": "Performance athletic shorts with mesh lining",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT030",
+      "name": "Sweatpants - Grey",
+      "description": "Comfortable fleece sweatpants in heather grey",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT031",
+      "name": "Track Pants - Black",
+      "description": "Athletic track pants with side stripes",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT032",
+      "name": "Leggings - Black",
+      "description": "High-waisted athletic leggings in black",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT033",
+      "name": "Yoga Pants - Purple",
+      "description": "Stretch yoga pants in deep purple",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT034",
+      "name": "Maxi Dress - Floral",
+      "description": "Long flowing maxi dress with floral print",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT035",
+      "name": "Cocktail Dress - Red",
+      "description": "Sleeveless cocktail dress in cherry red",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT036",
+      "name": "Sundress - Yellow",
+      "description": "Light cotton sundress in bright yellow",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT037",
+      "name": "Evening Gown - Black",
+      "description": "Elegant evening gown with sequin detail",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT038",
+      "name": "Blouse - White",
+      "description": "Silk button-up blouse in white",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT039",
+      "name": "Blouse - Lavender",
+      "description": "Chiffon blouse with ruffles in lavender",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT040",
+      "name": "Tank Top - Pink",
+      "description": "Cotton tank top in pastel pink",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT041",
+      "name": "Camisole - Black",
+      "description": "Satin camisole with adjustable straps",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT042",
+      "name": "Skirt - Plaid",
+      "description": "Pleated plaid skirt in red and black",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT043",
+      "name": "Pencil Skirt - Black",
+      "description": "Form-fitting pencil skirt in black",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT044",
+      "name": "A-Line Skirt - Denim",
+      "description": "Denim a-line skirt with button front",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT045",
+      "name": "Maxi Skirt - Bohemian",
+      "description": "Long bohemian style maxi skirt with print",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT046",
+      "name": "Suit Jacket - Navy",
+      "description": "Two-piece suit jacket in navy pinstripe",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT047",
+      "name": "Suit Jacket - Grey",
+      "description": "Slim fit suit jacket in light grey",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT048",
+      "name": "Trench Coat - Beige",
+      "description": "Classic double-breasted trench coat",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT049",
+      "name": "Peacoat - Navy",
+      "description": "Wool peacoat with anchor buttons",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT050",
+      "name": "Down Jacket - Black",
+      "description": "Insulated down jacket with hood",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT051",
+      "name": "Denim Jacket - Blue",
+      "description": "Classic denim jacket in light wash",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT052",
+      "name": "Vest - Puffer",
+      "description": "Quilted puffer vest in black",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT053",
+      "name": "Vest - Wool",
+      "description": "Formal wool vest in charcoal",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT054",
+      "name": "Kimono - Silk",
+      "description": "Traditional silk kimono with floral pattern",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT055",
+      "name": "Robe - Terry",
+      "description": "Plush terry cloth bathrobe in white",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT056",
+      "name": "Jumpsuit - Black",
+      "description": "One-piece jumpsuit with belt in black",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT057",
+      "name": "Romper - Floral",
+      "description": "Short romper with floral print",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT058",
+      "name": "Overalls - Denim",
+      "description": "Classic denim overalls with adjustable straps",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT059",
+      "name": "Capri Pants - White",
+      "description": "Cropped capri pants in white",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT060",
+      "name": "Palazzo Pants - Navy",
+      "description": "Wide-leg palazzo pants in navy",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT061",
+      "name": "Joggers - Grey",
+      "description": "Tapered joggers with elastic cuffs",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT062",
+      "name": "Compression Shirt - Black",
+      "description": "Athletic compression shirt for training",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT063",
+      "name": "Sports Bra - Pink",
+      "description": "High-impact sports bra in pink",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT064",
+      "name": "Tank Top - Mesh",
+      "description": "Breathable mesh athletic tank top",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT065",
+      "name": "Running Tights - Black",
+      "description": "Full-length running tights with reflective strips",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT066",
+      "name": "Cycling Shorts - Blue",
+      "description": "Padded cycling shorts in navy blue",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT067",
+      "name": "Swim Trunks - Hawaiian",
+      "description": "Board shorts with Hawaiian print",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT068",
+      "name": "Bikini - Two Piece",
+      "description": "Two-piece bikini swimsuit in turquoise",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT069",
+      "name": "One-Piece Swimsuit - Black",
+      "description": "Athletic one-piece swimsuit in black",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT070",
+      "name": "Rashguard - Blue",
+      "description": "UV protection rashguard in royal blue",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT071",
+      "name": "Flannel Shirt - Plaid",
+      "description": "Cotton flannel shirt in red plaid",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT072",
+      "name": "Henley Shirt - Grey",
+      "description": "Long sleeve henley with button placket",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT073",
+      "name": "Tank Top - Ribbed",
+      "description": "Ribbed cotton tank top in white",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT074",
+      "name": "Graphic Tee - Band",
+      "description": "Concert t-shirt with band logo print",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT075",
+      "name": "Thermal Underwear - Set",
+      "description": "Long underwear set in thermal fabric",
+      "unitofsale": "set"
+    },
+    {
+      "itemid": "CLT076",
+      "name": "Boxer Shorts - Plaid",
+      "description": "Cotton boxer shorts in plaid pattern",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT077",
+      "name": "Briefs - Pack of 3",
+      "description": "Cotton briefs multipack in assorted colors",
+      "unitofsale": "pack"
+    },
+    {
+      "itemid": "CLT078",
+      "name": "Bra - Underwire",
+      "description": "Underwire bra with lace trim in nude",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT079",
+      "name": "Panties - Bikini Cut",
+      "description": "Bikini cut panties in cotton blend",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT080",
+      "name": "Socks - Crew",
+      "description": "Crew socks in white cotton - pack of 6",
+      "unitofsale": "pack"
+    },
+    {
+      "itemid": "CLT081",
+      "name": "Socks - Ankle",
+      "description": "No-show ankle socks in black - pack of 6",
+      "unitofsale": "pack"
+    },
+    {
+      "itemid": "CLT082",
+      "name": "Socks - Wool",
+      "description": "Warm wool hiking socks in grey",
+      "unitofsale": "pair"
+    },
+    {
+      "itemid": "CLT083",
+      "name": "Tights - Opaque",
+      "description": "Opaque tights in black 80 denier",
+      "unitofsale": "pair"
+    },
+    {
+      "itemid": "CLT084",
+      "name": "Stockings - Sheer",
+      "description": "Sheer stockings with lace top in nude",
+      "unitofsale": "pair"
+    },
+    {
+      "itemid": "CLT085",
+      "name": "Scarf - Wool",
+      "description": "Knitted wool scarf in burgundy",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT086",
+      "name": "Scarf - Silk",
+      "description": "Silk neck scarf with floral pattern",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT087",
+      "name": "Beanie - Knit",
+      "description": "Knit beanie hat in navy blue",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT088",
+      "name": "Baseball Cap - Logo",
+      "description": "Adjustable baseball cap with embroidered logo",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT089",
+      "name": "Sun Hat - Wide Brim",
+      "description": "Wide-brimmed straw sun hat",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT090",
+      "name": "Gloves - Leather",
+      "description": "Genuine leather gloves in black",
+      "unitofsale": "pair"
+    },
+    {
+      "itemid": "CLT091",
+      "name": "Gloves - Knit",
+      "description": "Knitted winter gloves in grey",
+      "unitofsale": "pair"
+    },
+    {
+      "itemid": "CLT092",
+      "name": "Belt - Leather",
+      "description": "Genuine leather belt with silver buckle",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT093",
+      "name": "Belt - Canvas",
+      "description": "Woven canvas belt in khaki",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT094",
+      "name": "Tie - Silk",
+      "description": "Silk necktie in navy with diagonal stripes",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT095",
+      "name": "Bow Tie - Black",
+      "description": "Pre-tied bow tie in black satin",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT096",
+      "name": "Suspenders - Leather",
+      "description": "Adjustable leather suspenders in brown",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT097",
+      "name": "Pajama Set - Cotton",
+      "description": "Two-piece cotton pajama set in plaid",
+      "unitofsale": "set"
+    },
+    {
+      "itemid": "CLT098",
+      "name": "Nightgown - Satin",
+      "description": "Satin nightgown with lace trim in pink",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT099",
+      "name": "Sleep Shorts - Jersey",
+      "description": "Comfortable jersey sleep shorts in grey",
+      "unitofsale": "ea"
+    },
+    {
+      "itemid": "CLT100",
+      "name": "Slippers - Fleece",
+      "description": "Fleece-lined house slippers in beige",
+      "unitofsale": "pair"
+    }
+  ]
+}
