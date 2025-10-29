@@ -48,6 +48,7 @@ class DatabaseRepository:
             await self._pool.close()
             self._pool = None
     # Some changes
+    # Some sample changes
     @asynccontextmanager
     async def get_connection(self):
         """Get a connection from the pool"""
